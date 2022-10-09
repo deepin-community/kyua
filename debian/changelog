@@ -1,0 +1,20 @@
+kyua (0.13-3) unstable; urgency=medium
+
+  [ Vagrant Cascadian ]
+  * Make builds reproducible:
+    - Pass KYUA_PLATFORM to configure. (Closes: #977432)
+    - Pass UMOUNT to configure. (Closes: #977433)
+
+ -- Andrej Shadura <andrewsh@debian.org>  Tue, 15 Dec 2020 09:26:46 +0100
+
+kyua (0.13-2) unstable; urgency=medium
+
+  * Rebuild.
+
+ -- Andrej Shadura <andrewsh@debian.org>  Wed, 04 Nov 2020 12:02:03 +0100
+
+kyua (0.13-1) unstable; urgency=low
+
+  * Initial release (Closes: #766577).
+
+ -- Andrej Shadura <andrewsh@debian.org>  Fri, 30 Oct 2020 19:13:33 +0100
